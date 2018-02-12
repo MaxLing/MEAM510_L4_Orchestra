@@ -1,4 +1,4 @@
-# #UPenn MEAM510 Mechatronics, Lab4
+# UPenn MEAM510 Mechatronics, Lab4
 
 https://www.youtube.com/watch?v=yrYGqtiv8p4
 
